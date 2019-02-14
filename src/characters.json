@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Phineas",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/07820f26d28f6fb23738eef6c54e72d9430a3908.jpeg?region=0%2C0%2C600%2C600&optimize=true",
+        "count": 0
+      },
+      {
+        "id": 2,
+        "name": "Ferb",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/ce17e66e3dd28cefad55fbd18262c660b4cd8294.jpeg?region=0%2C0%2C600%2C600&optimize=true",
+        "count": 0
+      },
+      {
+        "id": 3,
+        "name": "Isabella",
+        "image": "https://vignette.wikia.nocookie.net/disneychannel/images/8/8b/Isabella.jpg/revision/latest?cb=20080821234823",
+        "count": 0
+      },
+      {
+        "id": 4,
+        "name": "Candace",
+        "image": "https://vignette.wikia.nocookie.net/pffanon/images/b/bd/Candace.jpg/revision/latest?cb=20090709235840",
+        "count": 0
+      },
+      {
+        "id": 5,
+        "name": "Baljeet",
+        "image": "https://vignette.wikia.nocookie.net/phineasandferb/images/9/98/Baljeet.JPG/revision/latest/scale-to-width-down/200?cb=20170806211609",
+        "count": 0
+      },
+      {
+        "id": 6,
+        "name": "Vanessa",
+        "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/vanessa-doofenshmirtz-phineas-and-ferb-16.4.jpg",
+        "count": 0
+      },
+      {
+        "id": 7,
+        "name": "Buford",
+        "image": "https://vignette.wikia.nocookie.net/phineasandferb/images/1/1c/Buford_Van_Stomm.PNG/revision/latest?cb=20170808015948",
+        "count": 0
+      },
+      {
+        "id": 8,
+        "name": "Perry",
+        "image": "https://vignette.wikia.nocookie.net/phineasandferb/images/f/fb/Perry_official.jpg/revision/latest/scale-to-width-down/230?cb=20140503030926",
+        "count": 0
+      },
+      {
+        "id": 9,
+        "name": "Jeremy",
+        "image": "https://img.sharetv.com/shows/characters/large/phineas_and_ferb.jeremy.jpg",
+        "count": 0
+      },
+      {
+        "id": 10,
+        "name": "Doofensmirtz",
+        "image": "https://jamesfaveshome.files.wordpress.com/2018/10/bdrxfkcb_400x400.jpg?w=1100",
+        "count": 0
+      },
+      {
+        "id": 11,
+        "name": "Stacy",
+        "image": "https://img.sharetv.com/shows/characters/large/phineas_and_ferb.stacy.jpg",
+        "count": 0
+      }
+]
