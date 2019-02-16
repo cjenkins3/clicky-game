@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cjenkins3.github.io/clicky-game",
+  "homepage": "https://cjenkins3.github.io/clicky-game",
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
